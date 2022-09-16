@@ -12,8 +12,8 @@
 <div class="text-center">
         <nav class="nav nav-tabs">
             <a href="{{url('/')}}" class="nav-link active">Home</a>
-            <a href="{{url('/air')}}" class="nav-link">Page Info</a>
-            <a href="{{url('/hangin')}}" class="nav-link">Terms of Use</a>
+            <a href="{{url('/Page')}}" class="nav-link">Contacts</a>
+            <a href="{{url('/Termss')}}" class="nav-link">Condition</a>
         </nav>
         <h1><i>Art Example</i></h1>
         <p>

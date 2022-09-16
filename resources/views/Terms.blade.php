@@ -12,8 +12,8 @@
 <div class="text-center">
         <nav class="nav nav-tabs">
             <a href="{{url('/')}}" class="nav-link active">Home</a>
-            <a href="{{url('/air')}}" class="nav-link">Page Info</a>
-            <a href="{{url('/hangin')}}" class="nav-link">Terms of Use</a>
+            <a href="{{url('/Page')}}" class="nav-link">Contacts</a>
+            <a href="{{url('/Terms')}}" class="nav-link">Condition</a>
         </nav>
         <h1><i>This Agreement merges and supersedes all prior negotiations, representations and agreements between the Parties related to the subject matter hereof, contains all the terms and conditions agreed upon by the Parties, and constitutes the entire agreement between the Parties.</i></h1>
     
